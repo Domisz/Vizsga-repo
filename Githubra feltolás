@@ -1,0 +1,15 @@
+git clone https://github.com/umszki/probavizsga-Domisz
+
+MC-be masolas a lokalis repoba
+
+belepes a repoba
+
+git add .
+git commit -m 'nev'
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git commit -m 'nev'
+git push majd belepes!
+
+
+
